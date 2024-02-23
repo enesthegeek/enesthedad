@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Nuclear energy engineer turned web developer, writing code for fun and as a hobby since 2020. Proficient in multiple languages. Discovered a love for web development while crafting a scraper for my thesis, igniting a journey of self-study and exploration in the dynamic world of web technologies. 🌐💻✨
+Nuclear energy engineer turned web developer, writing code for fun and as a hobby since 2016. Proficient in multiple languages. Discovered a love for web development while crafting a scraper for my thesis, igniting a journey of self-study and exploration in the dynamic world of web technologies. 🌐💻✨
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [robinthelevi@gmail.com](mailto:robinthelevi@gmail.com)
