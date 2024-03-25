@@ -7,7 +7,7 @@ Full Stack Developer
 Writing code since 2016. Proficient in multiple languages. Discovered a love for web development while crafting a scraper for my thesis, igniting a journey of self-study and exploration in the dynamic world of web technologies. 🌐💻✨
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [robinthelevi@gmail.com](mailto:robinthelevi@gmail.com)
+* ✉️  You can contact me at [enessoyturk58@gmail.com](mailto:enessoyturk58@gmail.com)
 * 🤝  I'm open to collaborating on Full Stack Projects
 * ⚡  Why did the nuclear energy engineer bring a wand to work?</br>Because sometimes you need a little magic to debug radioactive bugs! 🧙‍♂️💡
 
