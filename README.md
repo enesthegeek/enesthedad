@@ -71,9 +71,9 @@
 <h3 align="left">Frameworks:</h3>
 <p>
   
- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+ <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django"  height="40"/> 
   
-   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQqX699Ii1yOe0IYdJ3SmuIA8DFyIMgRKLQ&s" alt="flask" width="40" height="40"/> 
 </p>
 <h3 align="left">Software:</h3>
 <p>
@@ -81,7 +81,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  
+   <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/adobe-photoshop-logo.png" alt="photoshop"  height="40"/>  
   
   
  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
