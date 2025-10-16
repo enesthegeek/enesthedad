@@ -1,54 +1,41 @@
-# Enes
+<div align="center">
 
-```typescript
-const profile = {
-  name: "Enes",
-  bio: "ML Engineer with nuclear energy and physics background. ",
-  skills: [
-    "PostgreSQL",
-    "MongoDB",
-    "TensorFlow",
-    "PyTorch",
-    "Pandas",
-    "NumPy",
-    "Scikit-Learn",
-    "Python"
-  ],
-}
-```
+# ✨ Enes ✨
+
+<p><em>ML Engineer with nuclear energy and physics background. </em></p>
+
+<hr>
+
+</div>
 
 ## 💻 Tech Stack
 
-```json
-{
-  "backend": [
-    "PostgreSQL",
-    "MongoDB"
-  ],
-  "ai/ml": [
-    "TensorFlow",
-    "PyTorch",
-    "Pandas",
-    "NumPy",
-    "Scikit-Learn"
-  ],
-  "languages": [
-    "Python"
-  ]
-}
-```
+<div align="center">
+
+**⚙️ Backend**
+
+`PostgreSQL` • `MongoDB`
+
+**🧠 AI/ML**
+
+`TensorFlow` • `PyTorch` • `Pandas` • `NumPy` • `Scikit-Learn`
+
+**💬 Languages**
+
+`Python`
+
+</div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "enessoyturk58@gmail.com",
-}
-```
+<div align="center">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+**Email:** enessoyturk58@gmail.com
 
-process.exit(0); // Until next time 👋
-```
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
