@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Enes ✨
+# 👨🏻‍💻 Enes ⚛️
 
 <p><em>ML Engineer with nuclear energy and physics background. </em></p>
 
@@ -12,13 +12,14 @@
 
 <div align="center">
 
-**⚙️ Backend**
-
-`PostgreSQL` • `MongoDB`
-
 **🧠 AI/ML**
 
 `TensorFlow` • `PyTorch` • `Pandas` • `NumPy` • `Scikit-Learn`
+
+**⚙️ DB**
+
+`PostgreSQL` • `MongoDB`
+
 
 **💬 Languages**
 
@@ -36,6 +37,5 @@
 
 <div align="center">
 
-✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
-
 </div>
+
